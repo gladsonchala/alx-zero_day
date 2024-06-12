@@ -1,1 +1,1 @@
-Non empty directory
+# Non empty directory
